@@ -5,7 +5,7 @@ This project predicts electricity cost for buildings using machine learning.
 
 The project demonstrates a complete machine learning pipeline including:
 - Exploratory Data Analysis (For screenshot of heatmap-: ![Correlation Heatmap](images/heatmap.png))
-- Model Training
+- Model Training 
 - FastAPI backend for predictions
 - Streamlit frontend for user interaction
   
