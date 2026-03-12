@@ -49,7 +49,7 @@ FastAPI Backend
    ↓
 Streamlit Frontend(The trained model is integrated with a Streamlit interface that allows users to input building parameters and predict electricity cost.![Streamlit Interface](images/streamlit_ui.png))
 
-## MODEL
+## TRAINED MODEL
 The trained model is hosted externally due to GitHub file size limitations.
 Download model:https://drive.google.com/file/d/16ApJLe55G-i0s4vro2AqTMnQSyGba3Mv/view?usp=sharing
 
@@ -65,6 +65,7 @@ Download model:https://drive.google.com/file/d/16ApJLe55G-i0s4vro2AqTMnQSyGba3Mv
 
 ### PROJECT STRUCTURE
 
+```
 electricity-cost-prediction
 │
 ├── backend
@@ -86,4 +87,5 @@ electricity-cost-prediction
 │
 ├── requirements.txt
 └── README.md
+```
 
