@@ -4,7 +4,7 @@
 This project predicts electricity cost for buildings using machine learning.
 
 The project demonstrates a complete machine learning pipeline including:
-- Exploratory Data Analysis
+- Exploratory Data Analysis (For screenshot of heatmap-: ![Correlation Heatmap](images/heatmap.png))
 - Model Training
 - FastAPI backend for predictions
 - Streamlit frontend for user interaction
@@ -27,6 +27,8 @@ decision trees to improve prediction accuracy and reduce overfitting.
 R2 Score: 0.95
 MAE: 180
 RMSE: 227
+Screenshot-:
+![Model Metrics](images/model_metrics.png)
 
 ## PROJECT ARCHITECTURE
 Dataset
@@ -41,6 +43,20 @@ Saved Model (.pkl)
    ↓
 FastAPI Backend
    ↓
-Streamlit Frontend
+Streamlit Frontend( Screenshots -: ![Streamlit Interface](images/streamlit_ui.png))
+
+## MODEL
+The trained model is hosted externally due to GitHub file size limitations.
+Download model:https://drive.google.com/file/d/16ApJLe55G-i0s4vro2AqTMnQSyGba3Mv/view?usp=sharing
+
+## TECH STACK
+Python
+Scikit-learn
+FastAPI
+Streamlit
+Pandas
+NumPy
+Matplotlib
+Seaborn
 
 
