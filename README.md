@@ -1,7 +1,7 @@
 # Electricity Cost Prediction
 
 ## Project Overview
-This project predicts electricity cost for buildings using machine learning.
+Machine Learning project that predicts electricity cost using building infrastructure data with Random Forest, FastAPI backend, and Streamlit frontend.
 
 The project demonstrates a complete machine learning pipeline including:
 - Exploratory Data Analysis (For screenshot of heatmap-: ![Correlation Heatmap](images/heatmap.png))
